@@ -1,0 +1,3 @@
+The approach uses a two-pointer technique to merge two sorted arrays nums1 and nums2 in-place.
+We start by comparing the largest elements of both arrays from the end and place the larger element at the end of nums1. 
+This continues until all elements from nums2 are merged, with any remaining elements from nums1 already in their correct positions.
