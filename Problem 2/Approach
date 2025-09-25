@@ -1,0 +1,2 @@
+This solution performs a recursive inorder traversal of a binary tree, which visits nodes in the order: left subtree → root → right subtree.
+It uses a helper function to traverse the tree and collects the node values in a vector, resulting in a sorted sequence for binary search trees.
